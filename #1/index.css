@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+
+.blokc-1{
+    width: 400px;
+    height: 50px;
+    background-color:#b3deff ;
+    margin-top: 20px;
+}
+
+.blokc-2{
+    width: 400px;
+    height: 70px;
+    background-color:#b3deff;
+    margin-top: 10px;
+}
+
+.blokc-3{
+    width: 400px;
+    height: 80px;
+    background-color: #b3deff;
+    margin-top: 10px;
+}
+
+.text-1{
+    font-size: 19px;
+    padding: 10px;
+    font-family:"Montserrat", system-ui ;
+    font-weight: 600;
+}
+
+.text-2{
+    font-size: 13px;
+    padding: 15px;
+    font-family:"Montserrat", system-ui ;
+    font-weight: 500;
+}
+
+.text-3{
+    font-size: 17px;
+    padding: 5px;
+    font-family:"Montserrat", system-ui ;
+    font-weight: 400;
+   text-align: center;
+}
+ button {
+    width: 130px;
+    height: 40px;
+    background-color: #fff;
+    margin-left: 135px;
+    margin-bottom: 10px;
+    border: 0px;
+}

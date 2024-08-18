@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+.block-1{
+    width: 550px;
+    height: 30px;
+    background-color: red;
+    margin: auto;
+    padding: px;
+    text-align: center;
+}
+.h2{
+    color: #fff;
+}
+
+.h5{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+}
+

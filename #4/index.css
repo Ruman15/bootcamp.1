@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+.class-example {
+    font-size: 20px;
+    background-color: #ffcccc;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.cooler {
+    font-size: 24px;
+    color: #000000;
+}
+
+#id-example-1 {
+    font-size: 48px;
+    color: blue;
+}
+
+#id-example-2 {
+    font-size: 36px;
+    font-weight: bold;
+    background-color: #90ee90;
+    padding: 10px;
+    color: black;
+}
